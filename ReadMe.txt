@@ -8,7 +8,7 @@ Python 2 or 3, Selenium module for Python, and Selenium web driver for google ch
 If you want to uses another browser, other drivers can be found here: https://pypi.org/project/selenium/
 and you will have to change the driver in the code.
 
-After being run, all scripts need you to log-in to GroupMe, load the target chat (no multichat), then give the script the prompt is requests.
+After being run, all scripts need you to log in to GroupMe, load the target chat (no multichat), then give the script the prompt it requests.
 
 So far this repository contains:
 
