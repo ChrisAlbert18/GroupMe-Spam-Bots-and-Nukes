@@ -1,6 +1,5 @@
 Welcom Python GroupMe Nukes.
 This repo contains scripts to run and manage automated processes on the group chat platform GroupMe.
-The main goal of this project is to cause havoc.
 
 Requirements: 
 Python 2 or 3, Selenium module for Python, and Selenium web driver for google chrome (https://sites.google.com/a/chromium.org/chromedriver/downloads)
